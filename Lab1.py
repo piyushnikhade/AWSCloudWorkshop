@@ -1,5 +1,5 @@
 
-# taking two inputs at a time
+# taking three inputs at a time
 x= int(input("Enter X value: "))
 y= int(input("Enter Y value: "))
 z = int(input("Enter Z value:"))
